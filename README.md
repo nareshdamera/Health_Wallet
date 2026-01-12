@@ -81,10 +81,13 @@ npm install
 npm run dev
 Note: The frontend will run on http://localhost:5173.
 ```
-##🛡️ Security Features
+## 🛡️ Security Features
 ---
 Password Hashing: Bcrypt ensures user passwords are never stored in plain text.
 
 Access Control: Viewers are strictly prohibited from deleting or sharing patient data.
 
 JWT Protection: All sensitive API routes require a valid token to process requests.
+---
+## 👨‍💻 Author
+Naresh Damera Computer Science Student @ RGUKT Basar (IIIT-Basar)
